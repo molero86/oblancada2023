@@ -1,0 +1,47 @@
+
+
+<div class="container margin60up">
+    <div class="row">
+      <div class="col">
+        <div class="card">
+            <h5 class="card-header primaryBackground">Bienvenido, por favor completa la información</h5>
+            <div class="card-body">
+            
+                    <div class="form-group">
+                      <label for="inputName">Nombre</label>
+                      <input [(ngModel)]="userName" type="text" class="form-control" id="inputName" placeholder="Tu nombre">
+                      <p *ngIf="this.wrongName != 0 && this.wrongName % 3 == 1"> Lo siento, no hay nadie en la lista de acceso con ese nombre</p>
+                      <p *ngIf="this.wrongName != 0 && this.wrongName % 3 == 2"> ¿Estás seguro que te llamas así?</p>
+                      <p *ngIf="this.wrongName != 0 && this.wrongName % 3 == 3"> A lo mejor deberías de pensar como te llaman y no como te llamas</p>
+                    </div>
+                    <div class="form-group">
+                      <label for="inputPassword">Contraseña</label>
+                      <input [(ngModel)]="userPassword" type="password" class="form-control" id="inputPassword" placeholder="Contraseña" aria-describedby="passwordHelp">
+                      <small id="passwordHelp" class="form-text text-muted">Prueba con una contraseña que sepas</small>
+                      <p *ngIf="this.wrongPassword != 0 && this.wrongPassword % 4 == 1"> Si no sabes la contraseña será dificil entrar...</p>
+                      <p *ngIf="this.wrongPassword != 0 && this.wrongPassword % 4 == 2"> Venga esfuerzate un poco, estoy seguro de que te la sabes</p>
+                      <p *ngIf="this.wrongPassword != 0 && this.wrongPassword % 4 == 3"> No te voy a dar la opción de recuperar contraseña, si quieres acceder la tendrás que saber.</p>
+                      <p *ngIf="this.wrongPassword != 0 && this.wrongPassword % 4 == 0"> Lema de la última casa rural</p>
+                    </div>
+                    <div class="form-check">
+                      <input [(ngModel)]="userAcceptPolicies" (click)="acceptPolicies()" type="checkbox" class="form-check-input" id="acceptPolicy">
+                      <label class="form-check-label" for="acceptPolicy">Acepto la política de privacidad</label>
+                      <label class="form-check-label linkToPolicy" (click)="modalClicked()" data-toggle="modal" data-target="#exampleModalLong">&nbsp; Leer política de privacidad</label>
+                      <p *ngIf="this.showPolicyAdvertisment"> ¡No intentes escaquearte! Tienes que leer la política de privacidad para saber a lo que te enfrentas</p>
+                      <p *ngIf="this.showAcceptPolicyAdvertisment && !this.showPolicyAdvertisment"> Si no aceptas la política de privacidad no puedes entrar en la casa</p>
+                    </div>
+                    <br>
+                    <button type="submit" (click)="onSubmit()" class="btn btn-primary color-white primaryBackground">Entrar</button>
+
+            </div>
+
+            <app-modal [id]="'exampleModalLong'" [title]="policyTitle" [body]="policyText"></app-modal>
+
+        </div>
+      </div>
+    </div>
+</div>
+
+
+
+

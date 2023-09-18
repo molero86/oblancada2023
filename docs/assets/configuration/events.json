@@ -1,0 +1,118 @@
+{
+    "events":[
+        {
+            "id":1,
+            "hour": "20:00",
+            "day": 29,
+            "title": "Llegada de invitados, saludos y besamanos",
+            "description": "Durante la tarde iremos llegando cada uno a nuestra hora, así que iremos saludando y besando a todos los que vayan llegando.",
+            "imageUrl": "",
+            "info": ["Nos conocemos todos, no llegueis tarde!!"],
+            "users":[]
+        },
+        {
+            "id":2,
+            "hour": "22:00",
+            "day": 29,
+            "title": "Cena",
+            "description": "Primera cena de la Oblancada 2023 donde se presentarán los invitados y se hará un repaso de las normas de convivencia.",
+            "imageUrl": "",
+            "info": [],
+            "users":[]
+        },
+        {
+            "id":3,
+            "hour": "08:00",
+            "day": 30,
+            "title": "Desayuno para abuelos, padres y nietos madrugadores",
+            "description": "Los que se levanten pronto podrán disfrutar de un desayuno con churros y porras, y los que se levanten tarde tendrán que conformarse con un café y un zumo.",
+            "imageUrl": "",
+            "info": [],
+            "users":[]
+        },        
+        {
+            "id":4,
+            "hour": "10:00",
+            "day": 30,
+            "title": "Desayuno para los jovenes afortunados",
+            "description": "Los afortunados que puedan dormir hasta las 10:00, tendrán un desayuno de campeones, con panes de leche, café, zumo, tostadas, mermelada, mantequilla, sobaos, magdalenas, galletas, cereales, fruta...",
+            "imageUrl": ""
+        },
+        {
+            "id":5,
+            "hour": "12:00",
+           "day": 30,
+            "title": "Visita a la bodega Prado Rey",
+            "description": "Visita a la bodega Prado Rey, donde haremos una cata de vinos y nos enseñarán las instalaciones.",
+            "imageUrl": ""
+        },
+        {
+            "id":6,
+            "hour": "15:00",
+           "day": 30,
+            "title": "Comida para todos los asistentes",
+            "description": "Comida para todos los asistentes, con un menú de 1º y 2º plato, postre, café y chupito.",
+            "imageUrl": ""
+        },
+        {
+            "id":7,
+            "hour": "16:30",
+            "day": 30,
+            "title": "Sobremesa / Siesta",
+            "description": "Sobremesa para los que quieran seguir comiendo y siesta para los que quieran descansar.",
+            "imageUrl": "",
+            "info": [],
+            "users":[]
+        },
+        {
+            "id":8,
+            "hour": "19:00",
+            "day": 30,
+            "title": "Oblimpiadas 2023",
+            "description": "Comienzan las Oblimpiadas 2023, donde se enfrentarán los equipos de los Oblancos contra los Oblancos. Habrá pruebas de todo tipo, desde pruebas de fuerza, hasta pruebas de habilidad, pasando por pruebas de conocimiento, pruebas de velocidad, pruebas de puntería, pruebas de equilibrio, pruebas de resistencia, pruebas de memoria, pruebas de agilidad, pruebas de coordinación, pruebas de destreza, pruebas de ingenio, pruebas de reflejos, pruebas de concentración, pruebas de estrategia, pruebas de percepci",
+            "imageUrl": ""
+        },
+        {
+            "id":9,
+            "hour": "22:00",
+            "day": 30,
+            "title": "Cena del sabado noche",
+            "description": "Cena del sabado noche, donde se hará entrega de los premios de las Oblimpiadas 2023.",
+            "imageUrl": "",
+            "info":[],
+            "users":[]
+        },
+        {
+            "id":11,
+            "hour": "09:00",
+            "day": 1,
+            "title": "Desayunos",
+            "description": "Desayunos para todos los asistentes, con panes de leche, café, zumo, tostadas, mermelada, mantequilla, sobaos, magdalenas, galletas, cereales, fruta...",
+            "imageUrl": ""
+        },
+        {
+            "id":12,
+            "hour": "11:00",
+            "day": 1,
+            "title": "Ruta por tierras pucelanas",
+            "description": "Nivel medio-avanzado, desnivel aproximado de 2.000 metros, se recomienda llevar buen calzado y sogas para cruzar el rio.",
+            "imageUrl": ""
+        },
+        {
+            "id":13,
+            "hour": "14:00",
+            "day": 1,
+            "title": "Comida",
+            "description": "Comida para todos los asistentes, con un menú de 1º y 2º plato, postre, café y chupito.",
+            "imageUrl": ""
+        },
+        {
+            "id":14,
+            "hour": "17:00",
+            "day": 1,
+            "title": "Amargas despedidas",
+            "description": "",
+            "imageUrl": ""
+        }
+    ]
+}

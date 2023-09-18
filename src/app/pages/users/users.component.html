@@ -1,0 +1,13 @@
+<h1 class="margin60up">Superjunkies</h1>
+<div class="container">
+    <div *ngFor="let threeUsers of users" class="row">
+      <div *ngFor="let user of threeUsers" class="col-4 pointer" (click)="toggleModal(user.name)">
+        <img [src]="user.image" [alt]="user.name" class="userImage">
+        <h4> {{user.name}} </h4>
+
+        <app-user-modal [user]="user" [id]="user.name"></app-user-modal>
+
+      </div>
+    </div>
+    <br><br>
+  </div>

@@ -1,0 +1,37 @@
+.card-header{
+    background: linear-gradient(#fa9434, #f8b66a);
+    color: white;
+    text-align: center;
+}
+
+.nav-tabs .nav-link.active {
+    background: linear-gradient(#fa9434, #f8b66a);
+    color: white;
+}
+
+.nav-item{
+    background-color: white;
+}
+
+.pointer{
+    cursor:pointer;
+}
+
+.container{
+    padding-bottom: 80px;
+}
+
+/* default state */
+.newsletterNavbar {
+  position: relative;
+}
+
+/* scrolling state */
+.newsletterNavbar.newsletterNavbarFixed {
+  position: fixed;
+  top: 50px;
+  z-index: 999;
+}
+.newsletterBody{
+    margin-top: 0px;
+}

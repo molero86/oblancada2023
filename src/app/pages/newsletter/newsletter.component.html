@@ -1,0 +1,24 @@
+<div class="container margin60up">
+    <div class="row">
+      <div class="col">
+        <div class="card">
+          <div class="newsletterNavbar">
+            <h5 class="card-header">Oblancada 2023</h5>
+            <ul class="nav nav-tabs nav-fill newsletterNavbar">
+              <li class="nav-item">
+                <a class="nav-link pointer" [class.active]="this.selectedDay == 29" (click)="changeDate(29)">29 Septiembre</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link pointer" [class.active]="this.selectedDay == 30" (click)="changeDate(30)">30 Septiembre</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link pointer" [class.active]="this.selectedDay == 1" (click)="changeDate(1)">01 Octubre</a>
+              </li>
+            </ul>
+          </div>
+          <div class="card-body newsletterBody">
+            <app-newsletter-event [events]="this.todayEvents"></app-newsletter-event>
+          </div>
+        </div>
+      </div>
+  </div>

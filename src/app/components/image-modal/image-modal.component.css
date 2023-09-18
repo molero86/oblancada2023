@@ -1,0 +1,10 @@
+.modal-content
+{
+    background-color: transparent;
+    border: 0;
+}
+
+img{
+    max-width: 100%;
+    width: 100%;
+}

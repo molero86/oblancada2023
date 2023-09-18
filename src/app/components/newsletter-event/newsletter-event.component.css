@@ -1,0 +1,28 @@
+.even{
+    background-color: transparent;
+}
+
+.odd{
+    background: linear-gradient(#fcefe4, #f8f4eb);
+}
+
+img {
+    max-width: 90%;
+    max-height: 90%;
+    padding-top: 2%;
+    border-radius: 25px;
+}
+
+.contentCentered{
+    text-align: center;
+}
+
+.marginTop{
+    margin-top:30%
+}
+
+.fas.fa-info-circle
+{
+    color: #007bff;
+    cursor:pointer;
+}

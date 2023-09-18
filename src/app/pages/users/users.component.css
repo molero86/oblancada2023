@@ -1,0 +1,23 @@
+.userImage{
+    max-width: 100%;
+    width: 100%;
+    border-radius: 50px;
+}
+
+.container h4{
+    justify-content: center;
+    display: grid;
+    margin-bottom: 50px;
+    font-family: 'Permanent Marker', cursive;
+}
+
+h1{
+    justify-content: center;
+    display: grid;
+    font-family: 'Permanent Marker', cursive;
+    margin-bottom: 40px;
+}
+
+.pointer{
+    cursor: pointer;
+}

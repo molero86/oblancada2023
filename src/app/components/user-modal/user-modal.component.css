@@ -1,0 +1,44 @@
+.confidentialInfo
+{
+    /* background-color: indianred; */
+    background: linear-gradient(#d91a1a, #eb3737);
+    border: 6px solid red;
+    color: white;
+    font-weight: bold;
+    margin: 1%;
+    border-radius: 8px;
+    height: 100px;
+}
+
+.confidentialText
+{
+    background-color:white;
+    background: -gradient(#d91a1a, #eb3737);
+    border: 6px solid #eb3737;
+    color: white;
+    font-weight: bold;
+    margin: 1%;
+    border-radius: 8px;
+    height: 100px;
+}
+
+.confidentialInfo p{
+    text-align: center;
+    font-size: 2rem;
+}
+
+.confidentialButton
+{
+}
+
+#exampleModalLabel{
+    margin-left: 30px;
+}
+#closeSessionButton{
+    margin-top:30px;
+}
+.userImg{
+    width: 100%;
+    height: 100%;
+    border-radius: 50px;
+}

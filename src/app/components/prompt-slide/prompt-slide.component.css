@@ -1,0 +1,31 @@
+i{
+    width: 25%;
+    margin:auto;
+    margin-bottom: 10%;
+    color: white;
+}
+
+p{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    color: white;
+}
+
+.divImage{
+    display:grid;
+    align-content: center;
+}
+button{
+    position: fixed;
+    bottom: 0;
+}
+
+.fade-in-button{
+  -webkit-animation: 1s ease 0s normal forwards 1 fadein;
+  animation: 1s ease 0s normal forwards 1 fadein;
+}
+.enterButton{
+  max-width: 500px;
+  margin: auto;
+}

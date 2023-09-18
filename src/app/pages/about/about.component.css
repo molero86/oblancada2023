@@ -1,0 +1,12 @@
+.orangeBackground{
+    background: #FEB157;
+    color: white;
+}
+.orangeTitle{
+    color: #FEB157;
+}
+.maxWidth{
+    max-width: 800px;
+    margin: auto;
+    margin-top: 60px;
+}

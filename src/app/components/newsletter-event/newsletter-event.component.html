@@ -1,0 +1,34 @@
+<div *ngFor="let event of this.events"  class="row {{event.id % 2 == 0 ? 'even' : 'odd'}}">
+    <div class="col-10">
+        <div class="row">
+            <label class="col-3"><b>{{event.hour}}</b></label>
+            <label class="col-9"><b>{{event.title}}</b></label>
+            <label class="col-3"></label>
+            <small class="col-9">{{event.description}}</small>
+        </div>
+    </div>
+    <div class="col-2 contentCentered">
+        <i *ngIf="(event.isShown)" class="fas fa-info-circle marginTop fa-2x" (click)="showInfo(event.id.toString())" ></i>
+    </div>
+    <div class="col-12 contentCentered">
+        <img src ="{{event.imageUrl}}" (click)="showImage(event.id.toString(), event.imageUrl)">
+    </div>
+    <app-image-modal [id]="event.id.toString()" [imageUrl]="event.imageUrl"></app-image-modal> 
+    
+    <div id="info{{event.id}}" class="modal" tabindex="-1" role="dialog">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-body">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                <br><br>
+                <p>{{event.info}}</p>
+                <br>
+                <button type="button" style="float:right" class="btn btn-secondary btn-sm" data-dismiss="modal">Cerrar</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+</div>

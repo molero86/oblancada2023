@@ -1,0 +1,48 @@
+<div [id]="this.id" class="modal fade" tabindex="-1" role="dialog">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <div class="container-fluid">
+            <div class="row">
+              <div class="col-4"><img  class="userImg" width="120" [src]="this.user != undefined ? this.user.image : ''"/></div>
+              <div class="col-6"><h2 id="exampleModalLabel">{{ this.user != undefined ? capitalize(this.user.name) : ''}}</h2></div>
+              <div class="col-2">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close" (click)="closeModal()">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+            </div>
+            <div *ngIf="isProfileModal" class="row">
+              <div class="col-12">
+                <button id="closeSessionButton" (click)="closeSession()" type="button" class="btn btn-primary btn-lg btn-block btn-sm">Cerrar Sesión</button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="modal-body">
+          <p><b>Nombre: </b> {{this.user != undefined ? capitalize(this.user.name) : ''}}</p>
+          <p><b>Descripción: </b> {{this.user != undefined ? this.user.description : ''}}</p>
+          <p><b>Rol: </b> {{this.user != undefined ? this.user.role : ''}}</p>
+        </div>
+
+
+        <div *ngIf="isProfileModal && (this.user?.confidentialInfo != '' && this.user?.confidentialInfo != undefined)" class="container">
+
+          <button *ngIf="!showConfidentialInfo" type="button" class="btn btn-danger btn-lg btn-block" (click)="showOrHideConfidentialInfo()">
+            Información Confidencial
+            <br>
+            <sub>Haz click verla</sub>
+          </button>
+
+          <button *ngIf="showConfidentialInfo" type="button" class="btn btn-outline-danger btn-lg btn-block" (click)="showOrHideConfidentialInfo()">
+            {{this.user?.confidentialInfo}}
+            <br>
+            <sub>Haz click para ocultarla</sub>
+          </button>
+        </div>
+
+        <div class="modal-footer">
+        </div>
+      </div>
+    </div>
+  </div>

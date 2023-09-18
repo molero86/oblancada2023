@@ -1,0 +1,16 @@
+img{
+    width: 100%;
+    margin-bottom: 10px;
+    border-radius: 8px;
+}
+.orangeBackground{
+    background-color: #FEB157;
+    color: white;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: center;
+}
+.maxWidth{
+    max-width: 800px;
+    margin: auto;
+  } 

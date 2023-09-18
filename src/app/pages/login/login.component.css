@@ -1,0 +1,17 @@
+p
+{
+    color:red;
+}
+
+.linkToPolicy
+{
+    color: blue;
+    cursor: pointer;
+}
+.card-header{
+    color: white;
+}
+
+.color-white{
+    color:white;
+}
