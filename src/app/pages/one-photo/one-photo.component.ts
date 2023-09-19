@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { AssetsService } from 'src/app/services/assets.service';
 
 @Component({
   selector: 'app-one-photo',
@@ -7,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class OnePhotoComponent implements OnInit {
 
-  constructor() { }
+  constructor(public assetsService: AssetsService) { }
 
   ngOnInit(): void {
   }

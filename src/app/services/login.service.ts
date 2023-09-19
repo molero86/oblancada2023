@@ -1,6 +1,7 @@
 import { HttpClient, HttpHeaders } from '@angular/common/http';
 import { Injectable, Injector } from '@angular/core';
 import { Router } from '@angular/router';
+import { AssetsService } from './assets.service';
 
 @Injectable({
   providedIn: 'root'
@@ -30,7 +31,8 @@ export class LoginService {
   private localStorageSessionValidUntilKey = 'Palencia2022SessionValidUntil';
 
 
-  constructor(private injector: Injector, private route: Router, private http: HttpClient) { 
+  constructor(private injector: Injector, private route: Router, private http: HttpClient,
+              private assetsService: AssetsService) { 
     this.loadConfiguration();
   }
 
@@ -118,7 +120,15 @@ export class LoginService {
     this.currentPassword = localStorage.getItem(this.localStoragePasswordKey);
 
     let http = this.injector.get(HttpClient);
-    return http.get('/oblancada2023/assets/configuration/loginConfig.json')
+    let loginConfigName = ''; 
+    if(this.assetsService.isProduction)
+    {
+      loginConfigName = 'configuration/loginConfigProd.json';
+    }
+    else{
+      loginConfigName = 'configuration/loginConfig.json';
+    }
+    return http.get(this.assetsService.buildAssetsPath(loginConfigName))
     .toPromise()
     .then((data:any) => {
       if(data != undefined)

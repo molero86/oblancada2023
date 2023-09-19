@@ -2,6 +2,7 @@ import { HttpClient } from '@angular/common/http';
 import { Component, Injector, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import { NewsletterEvent } from 'src/app/components/newsletter-event/newsletter-event.component';
+import { AssetsService } from 'src/app/services/assets.service';
 import { LoginService } from 'src/app/services/login.service';
 import { MenuService, Tabs } from 'src/app/services/menu.service';
 
@@ -16,7 +17,8 @@ export class NewsletterComponent implements OnInit {
   todayEvents : NewsletterEvent[] = [];
   selectedDay: number = 29;
 
-  constructor(private injector: Injector, private loginService: LoginService, private route: Router, private menuService: MenuService) {
+  constructor(private injector: Injector, private loginService: LoginService, private route: Router, private menuService: MenuService,
+              private assetsService: AssetsService) {
     this.menuService.setCurrentTab(Tabs.Newsletter);
 
     window.scroll({ 
@@ -41,7 +43,7 @@ export class NewsletterComponent implements OnInit {
 
   loadEvents() {
     let http = this.injector.get(HttpClient);
-    return http.get('/assets/configuration/events.json')
+    return http.get(this.assetsService.buildAssetsPath('configuration/events.json'))
     .toPromise()
     .then((data:any) => {
       if(data != undefined)

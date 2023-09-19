@@ -1,6 +1,7 @@
 import { HttpClient } from '@angular/common/http';
 import { Component, Injector, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
+import { AssetsService } from 'src/app/services/assets.service';
 import { LoginResult, LoginService } from 'src/app/services/login.service';
 import { MenuService, Tabs } from 'src/app/services/menu.service';
 
@@ -11,7 +12,8 @@ import { MenuService, Tabs } from 'src/app/services/menu.service';
 })
 export class LoginComponent implements OnInit {
 
-  constructor(private injector: Injector, private route: Router, private loginService: LoginService, private menuService: MenuService) { }
+  constructor(private injector: Injector, private route: Router, private loginService: LoginService, private menuService: MenuService,
+              private assetsService: AssetsService) { }
 
   userName = '';
   userPassword='';
@@ -89,7 +91,7 @@ export class LoginComponent implements OnInit {
   loadPolicies() {
     let http = this.injector.get(HttpClient);
 
-    return http.get('/oblancada2023/assets/configuration/privacyPolicy.json')
+    return http.get(this.assetsService.buildAssetsPath('configuration/privacyPolicy.json'))
     .toPromise()
     .then((data:any) => {
       if(data != undefined)

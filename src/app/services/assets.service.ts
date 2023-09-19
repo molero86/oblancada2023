@@ -5,7 +5,7 @@ import { Injectable } from '@angular/core';
 })
 export class AssetsService {
 
-  private isProduction: boolean = true;
+  public isProduction: boolean = true;
 
   constructor() { }
 
