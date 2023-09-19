@@ -118,7 +118,7 @@ export class LoginService {
     this.currentPassword = localStorage.getItem(this.localStoragePasswordKey);
 
     let http = this.injector.get(HttpClient);
-    return http.get('./assets/configuration/loginConfig.json')
+    return http.get('assets/configuration/loginConfig.json')
     .toPromise()
     .then((data:any) => {
       if(data != undefined)
