@@ -89,7 +89,7 @@ export class LoginComponent implements OnInit {
   loadPolicies() {
     let http = this.injector.get(HttpClient);
 
-    return http.get('/assets/configuration/privacyPolicy.json')
+    return http.get('/oblancada2023/assets/configuration/privacyPolicy.json')
     .toPromise()
     .then((data:any) => {
       if(data != undefined)
