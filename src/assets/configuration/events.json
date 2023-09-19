@@ -5,27 +5,37 @@
             "hour": "20:00",
             "day": 29,
             "title": "Llegada de invitados, saludos y besamanos",
-            "description": "Durante la tarde iremos llegando cada uno a nuestra hora, así que iremos saludando y besando a todos los que vayan llegando.",
+            "description": "Llegada escalonada desde los distintos puntos de la geografía española.",
             "imageUrl": "",
-            "info": ["Nos conocemos todos, no llegueis tarde!!"],
+            "info": [""],
+            "users":[]
+        },
+        {
+            "id":1,
+            "hour": "20:30",
+            "day": 29,
+            "title": "Reparto de habitaciónes",
+            "description": "Cada uno a sus aposentos a dejar las maletas y prepararse para la cena.",
+            "imageUrl": "",
+            "info": [],
             "users":[]
         },
         {
             "id":2,
-            "hour": "22:00",
+            "hour": "21:00",
             "day": 29,
             "title": "Cena",
-            "description": "Primera cena de la Oblancada 2023 donde se presentarán los invitados y se hará un repaso de las normas de convivencia.",
+            "description": "Primera cena de la Oblancada 2023 donde nos pondremos al día de nuestras últimas aventuras",
             "imageUrl": "",
-            "info": [],
-            "users":[]
+            "info": ["Nos conocemos todos, no llegueis tarde!!"],
+            "users":["todos"]
         },
         {
             "id":3,
             "hour": "08:00",
             "day": 30,
             "title": "Desayuno para abuelos, padres y nietos madrugadores",
-            "description": "Los que se levanten pronto podrán disfrutar de un desayuno con churros y porras, y los que se levanten tarde tendrán que conformarse con un café y un zumo.",
+            "description": "Los que se levanten pronto podrán disfrutar de un tranquilo desayuno hasta agotar existencias.",
             "imageUrl": "",
             "info": [],
             "users":[]
@@ -35,7 +45,7 @@
             "hour": "10:00",
             "day": 30,
             "title": "Desayuno para los jovenes afortunados",
-            "description": "Los afortunados que puedan dormir hasta las 10:00, tendrán un desayuno de campeones, con panes de leche, café, zumo, tostadas, mermelada, mantequilla, sobaos, magdalenas, galletas, cereales, fruta...",
+            "description": "Los afortunados que puedan dormir hasta las 10:00, tendrán un desayuno con lo que hayan dejado los madrugadores.",
             "imageUrl": ""
         },
         {
@@ -48,10 +58,10 @@
         },
         {
             "id":6,
-            "hour": "15:00",
+            "hour": "14:00",
            "day": 30,
             "title": "Comida para todos los asistentes",
-            "description": "Comida para todos los asistentes, con un menú de 1º y 2º plato, postre, café y chupito.",
+            "description": "Nos deleitarán con una comida, para degustar los platos típicos de la zona.",
             "imageUrl": ""
         },
         {
@@ -59,7 +69,7 @@
             "hour": "16:30",
             "day": 30,
             "title": "Sobremesa / Siesta",
-            "description": "Sobremesa para los que quieran seguir comiendo y siesta para los que quieran descansar.",
+            "description": "Sobremesa para los que quieran seguir con la conversación y siesta para los que quieran descansar.",
             "imageUrl": "",
             "info": [],
             "users":[]
@@ -69,33 +79,53 @@
             "hour": "19:00",
             "day": 30,
             "title": "Oblimpiadas 2023",
-            "description": "Comienzan las Oblimpiadas 2023, donde se enfrentarán los equipos de los Oblancos contra los Oblancos. Habrá pruebas de todo tipo, desde pruebas de fuerza, hasta pruebas de habilidad, pasando por pruebas de conocimiento, pruebas de velocidad, pruebas de puntería, pruebas de equilibrio, pruebas de resistencia, pruebas de memoria, pruebas de agilidad, pruebas de coordinación, pruebas de destreza, pruebas de ingenio, pruebas de reflejos, pruebas de concentración, pruebas de estrategia, pruebas de percepci",
-            "imageUrl": ""
+            "description": "Comienzan las Oblimpiadas 2023, donde habrá pruebas de distintas disciplinas para todo el mundo. (Deportes, juegos de mesa...)",
+            "imageUrl": "",
+            "info": ["Los tenistas/padelistas que lleven la equipación y las raquetas. Los juegos de mesa están incluidos."],
+            "users":[]
         },
         {
             "id":9,
-            "hour": "22:00",
+            "hour": "21:00",
             "day": 30,
-            "title": "Cena del sabado noche",
-            "description": "Cena del sabado noche, donde se hará entrega de los premios de las Oblimpiadas 2023.",
+            "title": "Cena del sábado noche",
+            "description": "Paramos a cenar para coger fuerzas para lo que viene después.",
             "imageUrl": "",
             "info":[],
             "users":[]
         },
         {
-            "id":11,
-            "hour": "09:00",
+            "id":9,
+            "hour": "23:00",
+            "day": 30,
+            "title": "¡Concurso sorpresa!",
+            "description": "Id preparados para ser retados con las pruebas más divertidas y locas que os podáis imaginar.",
+            "imageUrl": "",
+            "info":[],
+            "users":[]
+        },
+        {
+            "id":12,
+            "hour": "09:00 - 10:30",
             "day": 1,
-            "title": "Desayunos",
-            "description": "Desayunos para todos los asistentes, con panes de leche, café, zumo, tostadas, mermelada, mantequilla, sobaos, magdalenas, galletas, cereales, fruta...",
+            "title": "Desayuno",
+            "description": "Volvemos a cargar pilas para el día que nos espera.",
+            "imageUrl": ""
+        },
+        {
+            "id":11,
+            "hour": "12:00",
+            "day": 1,
+            "title": "Checkout",
+            "description": "Todos a recoger las habitaciones y dejarlas como las encontramos.",
             "imageUrl": ""
         },
         {
             "id":12,
-            "hour": "11:00",
+            "hour": "12:30",
             "day": 1,
-            "title": "Ruta por tierras pucelanas",
-            "description": "Nivel medio-avanzado, desnivel aproximado de 2.000 metros, se recomienda llevar buen calzado y sogas para cruzar el rio.",
+            "title": "Paseo por los alrededores",
+            "description": "Habrá que estirar las piernas antes de volver a sentarse a comer. Nos vamos de visita por el pueblo.",
             "imageUrl": ""
         },
         {
@@ -103,7 +133,7 @@
             "hour": "14:00",
             "day": 1,
             "title": "Comida",
-            "description": "Comida para todos los asistentes, con un menú de 1º y 2º plato, postre, café y chupito.",
+            "description": "Todos a comer otra vez, que ya se acaba lo bueno.",
             "imageUrl": ""
         },
         {
@@ -111,7 +141,7 @@
             "hour": "17:00",
             "day": 1,
             "title": "Amargas despedidas",
-            "description": "",
+            "description": "Despues de un gran fin de semana llega la despedida. Pero solo hasta la próxima Oblancada.",
             "imageUrl": ""
         }
     ]

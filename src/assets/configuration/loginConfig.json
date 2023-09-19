@@ -46,7 +46,7 @@
         {
             "name":"Marga",
             "description": "La revolución personificada. La niña de 60 años. Siempre tiene algo preparado para dar la sorpresa. Si vas con ella lleva ropa de cambio",
-            "role":"La que pone la revolución",
+            "role":"Guindilla Marga",
             "image":"../assets/users/min/marga.png",
             "route":"https://www.google.es/maps/dir/Calle+de+Blasco+de+Garay,+64,+Madrid/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@41.4207697,-5.400338,8z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd42285cfe9f4fed:0x11366e400ec5bbeb!2m2!1d-3.7111859!2d40.4359568!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0",
             "confidentialInfo":""
@@ -69,7 +69,7 @@
         },
         {
             "name":"Eva",
-            "description": "",
+            "description": "Haciendo gala de un humor muy castizo, nunca te aburrirás con ella. Invitala a una Mahou y regalalé un buen libro y la tendrás en el bote. ",
             "role":"",
             "image":"../assets/users/min/eva.png",
             "route":"https://www.google.es/maps/dir/24240+Santa+Mar%C3%ADa+del+P%C3%A1ramo,+Le%C3%B3n/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@42.3556515,-5.465555,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd39d4c303d67bf1:0xa344f730fac75cbc!2m2!1d-5.748098!2d42.3558775!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0",
@@ -101,7 +101,7 @@
         },
         {
             "name":"Maripi",
-            "description": "Supermami de los Js. Divertida. La risa más contagiosa del grupo. ",
+            "description": "Supermami de los Js. La risa más contagiosa del grupo. Hace magia con sus manos. Segura de si misma siempre te tenderá la mano para cuidarte y ayudarte.",
             "role":"Supermami",
             "image":"../assets/users/min/maripi.png",
             "route":"https://www.google.es/maps/dir/Av.+de+Monforte+de+Lemos,+Madrid/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@41.4356055,-5.4003378,8z/data=!4m15!4m14!1m5!1m1!1s0xd42299e47a7cd59:0xed5c73e7116392ef!2m2!1d-3.7046802!2d40.4792514!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0!5i1",
@@ -125,7 +125,7 @@
         },
         {
             "name":"Isabel",
-            "description": "Esta chica es puro corazon, siempre arrima el hombro cuando la necesitas. Transmite felicidad alli donde va. Creadora de todos los motes de la familia y de medio Madrid. ",
+            "description": "Esta chica es puro corazon, siempre arrima el hombro cuando la necesitas (sobretodo en el fregadero). Creadora de todos los motes de la familia y de medio Madrid.",
             "role":"",
             "image":"../assets/users/min/isa.png",
             "route":"https://www.google.es/maps/dir/42.6312797,-5.584195/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@42.6309535,-5.5847979,17.37z/data=!4m9!4m8!1m0!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0",
@@ -133,7 +133,7 @@
         },
         {
             "name":"Mole",
-            "description": "El culo inquieto personificado. Lo mismo te arregla el movil que una bici, es un terremoto con  corazón de Leon. Con el todo siempre es fácil. El iman de todos los niños.",
+            "description": "El culo inquieto personificado. Lo mismo te arregla el movil que te hace una paella, es un terremoto con  corazón de Leon. El iman de todos los niños.",
             "role":"",
             "image":"../assets/users/min/mole.png",
             "route":"https://www.google.com/maps/dir/Valladolid/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@42.0285858,-4.9445265,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd47728c08c66e93:0xb3ff92d41ca26bef!2m2!1d-4.7245321!2d41.652251!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0",
@@ -149,7 +149,7 @@
         },
         {
             "name":"Alba",
-            "description": "CrossFit lover, no se pierda una fiesta. Primera profesional del sector de la salud en la familia, los dientes son su moneda de cambio.",
+            "description": "Es el fichaje más reciente. Amante del crossfit, no se pierde una fiesta. Si sonries demasiado, podrás acabar en su consulta.",
             "role":"",
             "image":"../assets/users/min/alba.png",
             "route":"https://www.google.es/maps/dir/C.+Dos+Hermanas,+12,+24005+Le%C3%B3n/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@42.46743,-5.375953,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd379aa3b1f12f21:0xd2c3007ca299c733!2m2!1d-5.5688948!2d42.5893109!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0",
@@ -158,7 +158,7 @@
         {
             "name":"Clau",
             "description": "La artista de la familia. Capaz de hablar solo con la mirada. Bajo esa apariencia de hipster se esconde la fan número 1 de Marisol.",
-            "role":"",
+            "role":"La señora Claudia",
             "image":"../assets/users/min/clau.png",
             "route":"https://www.google.es/maps/dir/C.+Dos+Hermanas,+12,+24005+Le%C3%B3n/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@42.46743,-5.375953,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd379aa3b1f12f21:0xd2c3007ca299c733!2m2!1d-5.5688948!2d42.5893109!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0",
             "confidentialInfo":""
@@ -189,7 +189,7 @@
         },
         {
             "name":"Marco",
-            "description": " Lo mismo desayuna a las 12 de la mañana que a las 18 de la tarde",
+            "description": " Lo mismo desayuna a las 12 de la mañana que a las 18 de la tarde. Amante de la buena música (si no se viene arriba), con un oido privilegiado. Las prisas no van con el.",
             "role":"",
             "image":"../assets/users/min/marco.png",
             "route":"https://www.google.es/maps/dir/C.+Dos+Hermanas,+12,+24005+Le%C3%B3n/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@42.46743,-5.375953,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd379aa3b1f12f21:0xd2c3007ca299c733!2m2!1d-5.5688948!2d42.5893109!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0",
@@ -213,7 +213,7 @@
         },
         {
             "name":"Jaime",
-            "description": "Fanático del automovilismo en genera. Su mayor ilusión sería conducir un autobús. ¡Cuidado, sus abrazos enganchan!",
+            "description": "Fanático del automovilismo en general. Su mayor ilusión sería conducir un autobús. ¡Cuidado, sus abrazos enganchan!",
             "role":"",
             "image":"../assets/users/min/jaime.png",
             "route":"https://www.google.es/maps/dir/C.+Dos+Hermanas,+12,+24005+Le%C3%B3n/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@42.46743,-5.375953,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd379aa3b1f12f21:0xd2c3007ca299c733!2m2!1d-5.5688948!2d42.5893109!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0",
@@ -253,7 +253,7 @@
         },
         {
             "name":"Paula",
-            "description": "De apariencia tranquila y observadora",
+            "description": "Te juzga mientras te derrite con su tierna mirada. De apariencia tranquila y observadora pero siempre quiere estar en el meollo. Mayor fan de sus hermanos.",
             "role":"",
             "image":"../assets/users/min/paula.png",
             "route":"https://www.google.es/maps/dir/C.+Dos+Hermanas,+12,+24005+Le%C3%B3n/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@42.46743,-5.375953,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd379aa3b1f12f21:0xd2c3007ca299c733!2m2!1d-5.5688948!2d42.5893109!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0",
