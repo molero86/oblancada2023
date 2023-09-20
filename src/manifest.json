@@ -1,0 +1,17 @@
+{
+    "name": "Oblancada 2023",
+    "short_name": "Oblancada2023",
+    "description": "Tu aplicación con toda la información sobre el fin de semana de la Oblancada 2023",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#2196F3",
+    "icons": [
+      {
+        "src": "assets/oblanca_icon_dark_rounded.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
+  

@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
 import { LoginService } from './services/login.service';
 import { MenuService } from './services/menu.service';
@@ -10,10 +10,24 @@ declare var $: any
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
-export class AppComponent {
+export class AppComponent implements OnInit {
   title = 'oblancada2023';
 
   constructor(public loginService: LoginService, public menuService: MenuService, private route: Router) {
+  }
+
+  deferredInstallPrompt: any; // Store the beforeinstallprompt event
+
+
+  ngOnInit(): void {
+    // Listen for the beforeinstallprompt event
+    window.addEventListener('beforeinstallprompt', (event) => {
+      // Prevent the default behavior to prevent the browser's default installation prompt
+      event.preventDefault();
+
+      // Store the event for later use
+      this.deferredInstallPrompt = event;
+    });
   }
 
   logOut()
@@ -58,6 +72,25 @@ export class AppComponent {
     else
     {
       return '';
+    }
+  }
+
+  addToHomeScreen() {
+    if (this.deferredInstallPrompt) {
+      // Show the installation prompt to the user
+      this.deferredInstallPrompt.prompt();
+
+      // Wait for the user to respond to the prompt
+      this.deferredInstallPrompt.userChoice.then((choiceResult: any) => {
+        if (choiceResult.outcome === 'accepted') {
+          console.log('User accepted the A2HS prompt');
+        } else {
+          console.log('User dismissed the A2HS prompt');
+        }
+
+        // Reset the deferredInstallPrompt variable
+        this.deferredInstallPrompt = null;
+      });
     }
   }
 
