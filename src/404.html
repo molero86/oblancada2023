@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Oblancada 2023</title>
+  <base href="./">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <script>
+    document.addEventListener("scroll", function () {
+      const navbar = document.querySelector(".newsletterNavbar");
+      const navbarHeight = 60;
+      if(navbar != null && navbar != undefined)
+      {
+            const distanceFromTop = document.body.getBoundingClientRect().top;
+            const width = navbar.offsetWidth;
+
+            if (distanceFromTop <= navbarHeight) 
+            {
+              navbar.classList.add("newsletterNavbarFixed");
+              navbar.style.width =  width + "px";
+            }
+            else 
+            {
+              navbar.classList.remove("newsletterNavbarFixed");
+            }
+      }
+    });
+  </script>
+  <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet"> 
+</head>
+<body>
+  <app-root></app-root>
+</body>
+</html>
