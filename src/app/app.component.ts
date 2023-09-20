@@ -74,24 +74,4 @@ export class AppComponent implements OnInit {
       return '';
     }
   }
-
-  addToHomeScreen() {
-    if (this.deferredInstallPrompt) {
-      // Show the installation prompt to the user
-      this.deferredInstallPrompt.prompt();
-
-      // Wait for the user to respond to the prompt
-      this.deferredInstallPrompt.userChoice.then((choiceResult: any) => {
-        if (choiceResult.outcome === 'accepted') {
-          console.log('User accepted the A2HS prompt');
-        } else {
-          console.log('User dismissed the A2HS prompt');
-        }
-
-        // Reset the deferredInstallPrompt variable
-        this.deferredInstallPrompt = null;
-      });
-    }
-  }
-
 }
