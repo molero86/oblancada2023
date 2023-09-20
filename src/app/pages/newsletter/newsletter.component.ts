@@ -57,15 +57,14 @@ export class NewsletterComponent implements OnInit {
   }
 
   changeDate(day: number){
+    debugger;
     this.selectedDay = day;
     this.todayEvents = this.events.filter(event => event.day == this.selectedDay);
 
-    window.scroll({ 
-      top: 0, 
-      left: 0, 
-      behavior: 'smooth' 
-});
-
+    // window.scroll({ 
+    //   top: -60, 
+    //   left: 0, 
+    //   behavior: 'smooth' 
+    // });
   } 
-
 }

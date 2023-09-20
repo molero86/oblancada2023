@@ -19,16 +19,15 @@
                       <input [(ngModel)]="userPassword" type="password" class="form-control" id="inputPassword" placeholder="Contraseña" aria-describedby="passwordHelp">
                       <small id="passwordHelp" class="form-text text-muted">Prueba con una contraseña que sepas</small>
                       <p *ngIf="this.wrongPassword != 0 && this.wrongPassword % 4 == 1"> Si no sabes la contraseña será dificil entrar...</p>
-                      <p *ngIf="this.wrongPassword != 0 && this.wrongPassword % 4 == 2"> Venga esfuerzate un poco, estoy seguro de que te la sabes</p>
-                      <p *ngIf="this.wrongPassword != 0 && this.wrongPassword % 4 == 3"> No te voy a dar la opción de recuperar contraseña, si quieres acceder la tendrás que saber.</p>
-                      <p *ngIf="this.wrongPassword != 0 && this.wrongPassword % 4 == 0"> Lema de la última casa rural</p>
+                      <p *ngIf="this.wrongPassword != 0 && this.wrongPassword % 4 == 2"> Venga esfuérzate un poco, estoy seguro de que te la sabes</p>
+                      <p *ngIf="this.wrongPassword != 0 && this.wrongPassword % 4 == 3"> No te voy a dar la opción de recuperar contraseña, si quieres acceder la tendrás que conseguir.</p>
                     </div>
                     <div class="form-check">
                       <input [(ngModel)]="userAcceptPolicies" (click)="acceptPolicies()" type="checkbox" class="form-check-input" id="acceptPolicy">
                       <label class="form-check-label" for="acceptPolicy">Acepto la política de privacidad</label>
                       <label class="form-check-label linkToPolicy" (click)="modalClicked()" data-toggle="modal" data-target="#exampleModalLong">&nbsp; Leer política de privacidad</label>
                       <p *ngIf="this.showPolicyAdvertisment"> ¡No intentes escaquearte! Tienes que leer la política de privacidad para saber a lo que te enfrentas</p>
-                      <p *ngIf="this.showAcceptPolicyAdvertisment && !this.showPolicyAdvertisment"> Si no aceptas la política de privacidad no puedes entrar en la casa</p>
+                      <p *ngIf="this.showAcceptPolicyAdvertisment && !this.showPolicyAdvertisment"> Si no aceptas la política de privacidad no puedes entrar</p>
                     </div>
                     <br>
                     <button type="submit" (click)="onSubmit()" class="btn btn-primary color-white primaryBackground">Entrar</button>

@@ -1,0 +1,10 @@
+.onePhotoTitle{
+    margin-top: 10px;
+    background: linear-gradient(#fa9434, #f8b66a);
+    color: white;
+    border-radius: 8px;
+    padding:5px 10px;
+}
+.firstTitle{
+    margin-top:60px;
+}

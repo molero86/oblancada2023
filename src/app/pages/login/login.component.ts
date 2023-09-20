@@ -24,7 +24,7 @@ export class LoginComponent implements OnInit {
   showPolicyAdvertisment = false;
   showAcceptPolicyAdvertisment = false;
 
-  policyTitle="Términos y condiciones (CSL reg)";
+  policyTitle="Términos y condiciones (SPJK \u00AE)";
   policyText: string[] = [];
 
 

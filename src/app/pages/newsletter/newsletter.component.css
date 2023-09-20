@@ -29,9 +29,9 @@
 /* scrolling state */
 .newsletterNavbar.newsletterNavbarFixed {
   position: fixed;
-  top: 50px;
+  top: 60px;
   z-index: 999;
 }
 .newsletterBody{
-    margin-top: 0px;
+    margin-top: 72px;
 }
