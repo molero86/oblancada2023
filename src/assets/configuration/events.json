@@ -7,14 +7,14 @@
             "title": "Llegada de invitados, saludos y besamanos",
             "description": "Llegada escalonada desde los distintos puntos de la geografía española.",
             "imageUrl": "",
-            "info": [""],
+            "info": [],
             "users":[]
         },
         {
             "id":2,
             "hour": "20:30",
             "day": 29,
-            "title": "Reparto de habitaciónes",
+            "title": "Reparto de habitaciones",
             "description": "Cada uno a sus aposentos a dejar las maletas y prepararse para la cena.",
             "imageUrl": "",
             "info": [],
@@ -25,10 +25,10 @@
             "hour": "21:00",
             "day": 29,
             "title": "Cena",
-            "description": "Primera cena de la Oblancada 2023 donde nos pondremos al día de nuestras últimas aventuras",
+            "description": "Primera cena de la Oblancada 2023 donde nos pondremos al día de nuestras últimas aventuras.",
             "imageUrl": "/oblancada2023/assets/event-images/cenaViernes.png",
-            "info": ["Nos conocemos todos, no llegueis tarde!!"],
-            "users":["todos"]
+            "info": ["Nos conocemos todos, no lleguéis tarde!!"],
+            "users":["Alberto", "Alex","Alba","Bea", "Carlota","Clau", "Conchi","Cuca", "Diego","Eva", "Gabi","Guille", "Isa","Isabel", "Jaime","Javi","Javier","Jorge","Jose","Lia","Marco","Marga","Maripi","Martin","Miguel","Mole","Nacho","Pablo","Patri","Paula","Oscar"]
         },
         {
             "id":5,
@@ -44,7 +44,7 @@
             "id":6,
             "hour": "10:00",
             "day": 30,
-            "title": "Desayuno para los jovenes afortunados",
+            "title": "Desayuno para los jóvenes afortunados",
             "description": "Los afortunados que puedan dormir hasta las 10:00, tendrán un desayuno con lo que hayan dejado los madrugadores.",
             "imageUrl": ""
         },
@@ -82,7 +82,7 @@
             "description": "Comienzan las Oblimpiadas 2023, donde habrá pruebas de distintas disciplinas para todo el mundo. (Deportes, juegos de mesa...)",
             "imageUrl": "/oblancada2023/assets/event-images/oblimpiadas.png",
             "info": ["Los tenistas/padelistas que lleven la equipación y las raquetas. Los juegos de mesa están incluidos."],
-            "users":["mole"]
+            "users":["Alberto", "Alex","Alba","Bea", "Carlota","Clau", "Conchi","Cuca", "Diego","Eva", "Gabi","Guille", "Isa","Isabel", "Jaime","Javi","Javier","Jorge","Jose","Lia","Marco","Marga","Maripi","Martin","Miguel","Mole","Nacho","Pablo","Patri","Paula","Oscar"]
         },
         {
             "id":11,
@@ -90,7 +90,7 @@
             "day": 30,
             "title": "Cena del sábado noche",
             "description": "Paramos a cenar para coger fuerzas para lo que viene después.",
-            "imageUrl": "",
+            "imageUrl": "foto",
             "info":[],
             "users":[]
         },
@@ -100,7 +100,7 @@
             "day": 30,
             "title": "¡Concurso sorpresa!",
             "description": "Id preparados para ser retados con las pruebas más divertidas y locas que os podáis imaginar.",
-            "imageUrl": "",
+            "imageUrl": "interrogación",
             "info":[],
             "users":[]
         },
@@ -110,7 +110,9 @@
             "day": 1,
             "title": "Desayuno",
             "description": "Volvemos a cargar pilas para el día que nos espera.",
-            "imageUrl": ""
+            "imageUrl": "",
+            "info":["El que quiera madrugar para jugar a padel o tenis, hasta las 12 tiene tiempo."],
+            "users":["Alberto", "Alex","Alba","Bea", "Carlota","Clau", "Conchi","Cuca", "Diego","Eva", "Gabi","Guille", "Isa","Isabel", "Jaime","Javi","Javier","Jorge","Jose","Lia","Marco","Marga","Maripi","Martin","Miguel","Mole","Nacho","Pablo","Patri","Paula","Oscar"]
         },
         {
             "id":14,
@@ -126,7 +128,7 @@
             "day": 1,
             "title": "Paseo por los alrededores",
             "description": "Habrá que estirar las piernas antes de volver a sentarse a comer. Nos vamos de visita por el pueblo.",
-            "imageUrl": ""
+            "imageUrl": "/oblancada2023/assets/event-images/ruta.png"
         },
         {
             "id":16,
@@ -141,7 +143,7 @@
             "hour": "17:00",
             "day": 1,
             "title": "Amargas despedidas",
-            "description": "Despues de un gran fin de semana llega la despedida. Pero solo hasta la próxima Oblancada.",
+            "description": "Despues de un gran fin de semana llega la despedida. Pero solo hasta la próxima Oblancada. ¡¡Nos vemos pronto!!",
             "imageUrl": ""
         }
     ]

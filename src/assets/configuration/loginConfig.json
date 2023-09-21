@@ -24,15 +24,15 @@
             "description": "La matriarca. Se preocupa porque todos estemos bien. Todo cariño y bondad. Cuando la juntas con su hermana y sus cuñadas pura dinamita.",
             "role":"La que manda",
             "image":"../assets/users/min/conchi.png",
-            "route":"https://www.google.es/maps/dir/24240+Santa+Mar%C3%ADa+del+P%C3%A1ramo,+Le%C3%B3n/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@42.3556515,-5.465555,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd39d4c303d67bf1:0xa344f730fac75cbc!2m2!1d-5.748098!2d42.3558775!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0",
+            "route":"https://www.google.es/maps/dir/C.+Rodr%C3%ADguez+del+Valle,+22,+24002+Le%C3%B3n/La+Posada+de+Pradorey,+CL-619,+Ventosilla/@42.1577602,-5.3600893,290015m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0xd379a8d89322065:0x405b11d173a7c2de!2m2!1d-5.5792573!2d42.6016373!1m5!1m1!1s0xd4683be3406b3af:0x22fa93e9bdf75694!2m2!1d-3.8215403!2d41.7159874!3e0?entry=ttu",
             "confidentialInfo":""
         },
         {
             "name":"Miguel",
-            "description": "La chispa de todos los grupos. Picón por naturaleza y salvador de alarmas y perros. Siempre dispuesto a ayudary a hacer reir (Incluso a los rojiblancos).",
+            "description": "La chispa de todos los grupos. Picón por naturaleza y salvador de alarmas y perros. Siempre dispuesto a ayudar y a hacer reir (Incluso a los rojiblancos).",
             "role":"El que pone la chispa",
             "image":"../assets/users/min/miguel.png",
-            "route":"https://www.google.es/maps/dir/24240+Santa+Mar%C3%ADa+del+P%C3%A1ramo,+Le%C3%B3n/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@42.3556515,-5.465555,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd39d4c303d67bf1:0xa344f730fac75cbc!2m2!1d-5.748098!2d42.3558775!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0",
+            "route":"https://www.google.es/maps/dir/C.+Rodr%C3%ADguez+del+Valle,+22,+24002+Le%C3%B3n/La+Posada+de+Pradorey,+CL-619,+Ventosilla/@42.1577602,-5.3600893,290015m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0xd379a8d89322065:0x405b11d173a7c2de!2m2!1d-5.5792573!2d42.6016373!1m5!1m1!1s0xd4683be3406b3af:0x22fa93e9bdf75694!2m2!1d-3.8215403!2d41.7159874!3e0?entry=ttu",
             "confidentialInfo":""
         },
         {
@@ -40,15 +40,15 @@
             "description": "Capitán general con el bigote más característico de todo León. Al único al que seguiríamos en una ruta sin rumbo.",
             "role":"El que pone el rumbo",
             "image":"../assets/users/min/javier.png",
-            "route":"https://www.google.es/maps/dir/Carrer+de+Finl%C3%A0ndia,+Barcelona/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@41.9440212,-2.3762515,8z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x12a49885841c9061:0x78bdce24f013b6e5!2m2!1d2.1355869!2d41.3739656!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0",
+            "route":"https://www.google.es/maps/dir/C.Carbajal(Urb.El+Montico),+24196+Carbajal+de+la+Legua,+Le%C3%B3n/La+Posada+de+Pradorey,+CL-619,+Ventosilla/@42.1780714,-5.3718143,289922m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0xd379a2cceae165f:0xbc9f531a9c086a07!2m2!1d-5.6034126!2d42.6422493!1m5!1m1!1s0xd4683be3406b3af:0x22fa93e9bdf75694!2m2!1d-3.8215403!2d41.7159874!3e0?entry=ttu",
             "confidentialInfo":""
         },
         {
             "name":"Marga",
-            "description": "La revolución personificada. La niña de 60 años. Siempre tiene algo preparado para dar la sorpresa. Si vas con ella lleva ropa de cambio",
+            "description": "La revolución personificada. La niña de 60 años. Siempre tiene algo preparado para dar la sorpresa. Si vas con ella lleva ropa de cambio.",
             "role":"Guindilla Marga",
             "image":"../assets/users/min/marga.png",
-            "route":"https://www.google.es/maps/dir/Calle+de+Blasco+de+Garay,+64,+Madrid/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@41.4207697,-5.400338,8z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd42285cfe9f4fed:0x11366e400ec5bbeb!2m2!1d-3.7111859!2d40.4359568!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0",
+            "route":"https://www.google.es/maps/dir/C.Carbajal(Urb.El+Montico),+24196+Carbajal+de+la+Legua,+Le%C3%B3n/La+Posada+de+Pradorey,+CL-619,+Ventosilla/@42.1780714,-5.3718143,289922m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0xd379a2cceae165f:0xbc9f531a9c086a07!2m2!1d-5.6034126!2d42.6422493!1m5!1m1!1s0xd4683be3406b3af:0x22fa93e9bdf75694!2m2!1d-3.8215403!2d41.7159874!3e0?entry=ttu",
             "confidentialInfo":""
         },
         {
@@ -56,23 +56,23 @@
             "description": "Trotamundos y disfrutona. Madrileña y chulapa en invierno, en verano búscala en la playa. No la retes a una partida de Bridge si no te gusta perder.",
             "role":"",
             "image":"../assets/users/min/isabel.png",
-            "route":"https://www.google.es/maps/dir/24240+Santa+Mar%C3%ADa+del+P%C3%A1ramo,+Le%C3%B3n/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@42.3556515,-5.465555,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd39d4c303d67bf1:0xa344f730fac75cbc!2m2!1d-5.748098!2d42.3558775!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0",
+            "route":"https://www.google.es/maps/dir/Calle+del+Padre+Dami%C3%A1n,+50,+Madrid/La+Posada+de+Pradorey,+CL-619,+Ventosilla/@41.0872501,-4.3543271,294871m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0xd4229191e0386b3:0xf6648498711f0514!2m2!1d-3.6851614!2d40.4606118!1m5!1m1!1s0xd4683be3406b3af:0x22fa93e9bdf75694!2m2!1d-3.8215403!2d41.7159874!3e0?entry=ttu",
             "confidentialInfo":""
         },
         {
             "name":"Jose",
-            "description": "El padre de todos los madrileños adoptados. Saxofonista amateur premanente. Le vale una raqueta, una pala de padel, un palo de golf... cualquier deporte se le da bien.",
+            "description": "El padre de todos los madrileños adoptados. Saxofonista amateur permanente. Le vale una raqueta, una pala de padel, un palo de golf... cualquier deporte se le da bien.",
             "role":"El que pone la música",
             "image":"../assets/users/min/jose.png",
-            "route":"https://www.google.es/maps/dir/24240+Santa+Mar%C3%ADa+del+P%C3%A1ramo,+Le%C3%B3n/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@42.3556515,-5.465555,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd39d4c303d67bf1:0xa344f730fac75cbc!2m2!1d-5.748098!2d42.3558775!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0",
+            "route":"https://www.google.es/maps/dir/Calle+Islas+Baleares,+2,+Pozuelo+de+Alarc%C3%B3n/La+Posada+de+Pradorey,+CL-619,+Ventosilla/@41.0784773,-4.2498602,294910m/data=!3m2!1e3!4b1!4m19!4m18!1m10!1m1!1s0xd41867bb695e027:0x77857db2f0bff5c!2m2!1d-3.8183232!2d40.4425583!3m4!1m2!1d-3.3791924!2d40.8779457!3s0xd43bfac3a74b515:0x3a2e6cbb8d40179b!1m5!1m1!1s0xd4683be3406b3af:0x22fa93e9bdf75694!2m2!1d-3.8215403!2d41.7159874!3e0?entry=ttu",
             "confidentialInfo":""
         },
         {
             "name":"Eva",
-            "description": "Haciendo gala de un humor muy castizo, nunca te aburrirás con ella. Invitala a una Mahou y regalalé un buen libro y la tendrás en el bote. ",
+            "description": "Haciendo gala de un humor muy castizo, nunca te aburrirás con ella. Invítala a una Mahou y regalale un buen libro y la tendrás en el bote. ",
             "role":"",
             "image":"../assets/users/min/eva.png",
-            "route":"https://www.google.es/maps/dir/24240+Santa+Mar%C3%ADa+del+P%C3%A1ramo,+Le%C3%B3n/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@42.3556515,-5.465555,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd39d4c303d67bf1:0xa344f730fac75cbc!2m2!1d-5.748098!2d42.3558775!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0",
+            "route":"https://www.google.es/maps/dir/Calle+Islas+Baleares,+2,+Pozuelo+de+Alarc%C3%B3n/La+Posada+de+Pradorey,+CL-619,+Ventosilla/@41.0784773,-4.2498602,294910m/data=!3m2!1e3!4b1!4m19!4m18!1m10!1m1!1s0xd41867bb695e027:0x77857db2f0bff5c!2m2!1d-3.8183232!2d40.4425583!3m4!1m2!1d-3.3791924!2d40.8779457!3s0xd43bfac3a74b515:0x3a2e6cbb8d40179b!1m5!1m1!1s0xd4683be3406b3af:0x22fa93e9bdf75694!2m2!1d-3.8215403!2d41.7159874!3e0?entry=ttu",
             "confidentialInfo":""
         },
         {
@@ -80,7 +80,7 @@
             "description": "El último de la 2ªGen. pero a veces le incluyen en la 3ª. Debería ser el DJ oficial en todos los eventos. Amante de la buena música y la buena juerga.",
             "role":"El que pone la música",
             "image":"../assets/users/min/oscar.png",
-            "route":"https://www.google.es/maps/dir/Escuela+Nacional+de+Polic%C3%ADa,+Avenida+Juan+Carlos+I,+%C3%81vila/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@41.5178955,-5.6591803,8z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd40f22d08295cb7:0xa2d17b10b9086d73!2m2!1d-4.6536756!2d40.6670771!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0",
+            "route":"https://www.google.es/maps/dir/Calle+los+Espinos,+19,+Villarrodrigo+de+las+Regueras/La+Posada+de+Pradorey,+CL-619,+Ventosilla/@42.1771921,-5.3484962,289926m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0xd3790c5c949c995:0xd482a5fee494ecea!2m2!1d-5.5344816!2d42.6405019!1m5!1m1!1s0xd4683be3406b3af:0x22fa93e9bdf75694!2m2!1d-3.8215403!2d41.7159874!3e0?entry=ttu",
             "confidentialInfo":""
         },
         {
@@ -88,15 +88,15 @@
             "description": "Malagueña salerosa y leonesa de adopción. Se apunta a un bombardeo. Fiestera incansable. Siempre con una sonrisa en la cara y un mojito en la mano.",
             "role":"Fiestera incansable",
             "image":"../assets/users/min/cuca.png",
-            "route":"https://www.google.es/maps/dir/24240+Santa+Mar%C3%ADa+del+P%C3%A1ramo,+Le%C3%B3n/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@42.3556515,-5.465555,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd39d4c303d67bf1:0xa344f730fac75cbc!2m2!1d-5.748098!2d42.3558775!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0",
+            "route":"https://www.google.es/maps/dir/Calle+los+Espinos,+19,+Villarrodrigo+de+las+Regueras/La+Posada+de+Pradorey,+CL-619,+Ventosilla/@42.1771921,-5.3484962,289926m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0xd3790c5c949c995:0xd482a5fee494ecea!2m2!1d-5.5344816!2d42.6405019!1m5!1m1!1s0xd4683be3406b3af:0x22fa93e9bdf75694!2m2!1d-3.8215403!2d41.7159874!3e0?entry=ttu",
             "confidentialInfo":""
         },
         {
             "name":"Diego",
-            "description": "Motor incomustible de la 3G. Responsable y cabal de dia, juergista y disfrutón de noche. Madridista hasta la médula.",
+            "description": "Motor incomustible de la 3ªGen. Responsable y cabal de día, juerguista y disfrutón de noche. Madridista hasta la médula.",
             "role":"",
             "image":"../assets/users/min/diego.png",
-            "route":"https://www.google.es/maps/dir/24240+Santa+Mar%C3%ADa+del+P%C3%A1ramo,+Le%C3%B3n/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@42.3556515,-5.465555,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd39d4c303d67bf1:0xa344f730fac75cbc!2m2!1d-5.748098!2d42.3558775!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0",
+            "route":"https://www.google.es/maps/dir/Urbanizaci%C3%B3n+El+Robledal,+Carbajal+de+la+Legua/La+Posada+de+Pradorey,+CL-619,+Ventosilla/@42.1774628,-5.371572,289925m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0xd379a2d09226c45:0x6e4d01fa365f8142!2m2!1d-5.6011016!2d42.6409802!1m5!1m1!1s0xd4683be3406b3af:0x22fa93e9bdf75694!2m2!1d-3.8215403!2d41.7159874!3e0?entry=ttu",
             "confidentialInfo":""
         },
         {
@@ -104,7 +104,7 @@
             "description": "Supermami de los Js. La risa más contagiosa del grupo. Hace magia con sus manos. Segura de si misma siempre te tenderá la mano para cuidarte y ayudarte.",
             "role":"Supermami",
             "image":"../assets/users/min/maripi.png",
-            "route":"https://www.google.es/maps/dir/Av.+de+Monforte+de+Lemos,+Madrid/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@41.4356055,-5.4003378,8z/data=!4m15!4m14!1m5!1m1!1s0xd42299e47a7cd59:0xed5c73e7116392ef!2m2!1d-3.7046802!2d40.4792514!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0!5i1",
+            "route":"https://www.google.es/maps/dir/Urbanizaci%C3%B3n+El+Robledal,+Carbajal+de+la+Legua/La+Posada+de+Pradorey,+CL-619,+Ventosilla/@42.1774628,-5.371572,289925m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0xd379a2d09226c45:0x6e4d01fa365f8142!2m2!1d-5.6011016!2d42.6409802!1m5!1m1!1s0xd4683be3406b3af:0x22fa93e9bdf75694!2m2!1d-3.8215403!2d41.7159874!3e0?entry=ttu",
             "confidentialInfo":"Tendrás que llevar un pantalón negro y unos zapatos negros. Por favor esto es sumamente confidencial, procura que Isa no se entere de que lo llevas."
         },
         {
@@ -112,7 +112,7 @@
             "description": "Bachata y reggaeton a partes iguales. Pon Juanlu y sacarás a la bailarina que lleva dentro. Ser todoterreno lo lleva en los genes.",
             "role":"",
             "image":"../assets/users/min/bea.png",
-            "route":"https://www.google.es/maps/dir/Av.+de+Monforte+de+Lemos,+Madrid/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@41.4356055,-5.4003378,8z/data=!4m15!4m14!1m5!1m1!1s0xd42299e47a7cd59:0xed5c73e7116392ef!2m2!1d-3.7046802!2d40.4792514!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0!5i1",
+            "route":"https://www.google.es/maps/dir/%C3%A9dificio+Fuenlelaueyna,+C.+Alejandro+Casona,+3,+28035+Madrid/La+Posada+de+Pradorey,+CL-619,+Ventosilla/@41.0978064,-4.3543271,294823m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0xd4229efb18f4e91:0x868ef42f1bc9a44!2m2!1d-3.7311722!2d40.4814002!1m5!1m1!1s0xd4683be3406b3af:0x22fa93e9bdf75694!2m2!1d-3.8215403!2d41.7159874!3e0?entry=ttu",
             "confidentialInfo":""
         },
         {
@@ -120,23 +120,23 @@
             "description": "Argentino, belga, español... pero de corazón bilbaino. Se mete en todos los charcos y nunca sale mojado. Si quieres diversión no te olvides de él.",
             "role":"",
             "image":"../assets/users/min/gabi.png",
-            "route":"https://www.google.es/maps/dir/42.6312797,-5.584195/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@42.6309535,-5.5847979,17.37z/data=!4m9!4m8!1m0!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0",
+            "route":"https://www.google.es/maps/dir/%C3%A9dificio+Fuenlelaueyna,+C.+Alejandro+Casona,+3,+28035+Madrid/La+Posada+de+Pradorey,+CL-619,+Ventosilla/@41.0978064,-4.3543271,294823m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0xd4229efb18f4e91:0x868ef42f1bc9a44!2m2!1d-3.7311722!2d40.4814002!1m5!1m1!1s0xd4683be3406b3af:0x22fa93e9bdf75694!2m2!1d-3.8215403!2d41.7159874!3e0?entry=ttu",
             "confidentialInfo":""
         },
         {
             "name":"Isabel",
-            "description": "Esta chica es puro corazon, siempre arrima el hombro cuando la necesitas (sobretodo en el fregadero). Creadora de todos los motes de la familia y de medio Madrid.",
+            "description": "Esta chica es puro Corazón, siempre arrima el hombro cuando la necesitas (sobre todo en el fregadero). Creadora de todos los motes de la familia y de medio Madrid.",
             "role":"",
             "image":"../assets/users/min/isa.png",
-            "route":"https://www.google.es/maps/dir/42.6312797,-5.584195/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@42.6309535,-5.5847979,17.37z/data=!4m9!4m8!1m0!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0",
+            "route":"https://www.google.es/maps/dir/Calle+Carmen,+9,+Le%C3%B3n/La+Posada+de+Pradorey,+CL-619,+Ventosilla/@42.1560072,-5.3600893,290023m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0xd379a916a493f4f:0xbf3c65adafa65430!2m2!1d-5.5765533!2d42.5978755!1m5!1m1!1s0xd4683be3406b3af:0x22fa93e9bdf75694!2m2!1d-3.8215403!2d41.7159874!3e0?entry=ttu",
             "confidentialInfo":""
         },
         {
             "name":"Mole",
-            "description": "El culo inquieto personificado. Lo mismo te arregla el movil que te hace una paella, es un terremoto con  corazón de Leon. El iman de todos los niños.",
+            "description": "El culo inquieto personificado. Lo mismo te arregla el móvil que te hace una paella, es un terremoto con  corazón de León. El imán de todos los niños.",
             "role":"",
             "image":"../assets/users/min/mole.png",
-            "route":"https://www.google.com/maps/dir/Valladolid/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@42.0285858,-4.9445265,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd47728c08c66e93:0xb3ff92d41ca26bef!2m2!1d-4.7245321!2d41.652251!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0",
+            "route":"https://www.google.es/maps/dir/Calle+Carmen,+9,+Le%C3%B3n/La+Posada+de+Pradorey,+CL-619,+Ventosilla/@42.1560072,-5.3600893,290023m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0xd379a916a493f4f:0xbf3c65adafa65430!2m2!1d-5.5765533!2d42.5978755!1m5!1m1!1s0xd4683be3406b3af:0x22fa93e9bdf75694!2m2!1d-3.8215403!2d41.7159874!3e0?entry=ttu",
             "confidentialInfo":""
         },
         {
@@ -144,15 +144,15 @@
             "description": "Vividor oficial de la familia y tu anfitrión de Airbnb. Es capaz de vender arena en el desierto. Marathon man (¡Redbull te da alas!).",
             "role":"",
             "image":"../assets/users/min/alberto.png",
-            "route":"https://www.google.com/maps/dir/Valladolid/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@42.0285858,-4.9445265,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd47728c08c66e93:0xb3ff92d41ca26bef!2m2!1d-4.7245321!2d41.652251!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0",
+            "route":"https://www.google.es/maps/dir/Avenida+de+Pablo+Iglesias,+22,+Madrid/La+Posada+de+Pradorey,+CL-619,+Ventosilla/@41.0755264,-4.5529817,294923m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0xd42285159235423:0x27bfad3bdc33768e!2m2!1d-3.7072077!2d40.4461117!1m5!1m1!1s0xd4683be3406b3af:0x22fa93e9bdf75694!2m2!1d-3.8215403!2d41.7159874!3e0?entry=ttu",
             "confidentialInfo":""
         },
         {
             "name":"Alba",
-            "description": "Es el fichaje más reciente. Amante del crossfit, no se pierde una fiesta. Si sonries demasiado, podrás acabar en su consulta.",
+            "description": "Es el fichaje más reciente. Amante del crossfit, no se pierde una fiesta. Si sonríes demasiado, podrás acabar en su consulta.",
             "role":"",
             "image":"../assets/users/min/alba.png",
-            "route":"https://www.google.es/maps/dir/C.+Dos+Hermanas,+12,+24005+Le%C3%B3n/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@42.46743,-5.375953,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd379aa3b1f12f21:0xd2c3007ca299c733!2m2!1d-5.5688948!2d42.5893109!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0",
+            "route":"https://www.google.es/maps/dir/Avenida+de+Pablo+Iglesias,+22,+Madrid/La+Posada+de+Pradorey,+CL-619,+Ventosilla/@41.0755264,-4.5529817,294923m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0xd42285159235423:0x27bfad3bdc33768e!2m2!1d-3.7072077!2d40.4461117!1m5!1m1!1s0xd4683be3406b3af:0x22fa93e9bdf75694!2m2!1d-3.8215403!2d41.7159874!3e0?entry=ttu",
             "confidentialInfo":""
         },
         {
@@ -160,7 +160,7 @@
             "description": "La artista de la familia. Capaz de hablar solo con la mirada. Bajo esa apariencia de hipster se esconde la fan número 1 de Marisol.",
             "role":"La señora Claudia",
             "image":"../assets/users/min/clau.png",
-            "route":"https://www.google.es/maps/dir/C.+Dos+Hermanas,+12,+24005+Le%C3%B3n/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@42.46743,-5.375953,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd379aa3b1f12f21:0xd2c3007ca299c733!2m2!1d-5.5688948!2d42.5893109!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0",
+            "route":"https://www.google.es/maps/dir/Calle+Islas+Baleares,+2,+Pozuelo+de+Alarc%C3%B3n/La+Posada+de+Pradorey,+CL-619,+Ventosilla/@41.0784773,-4.2498602,294910m/data=!3m2!1e3!4b1!4m19!4m18!1m10!1m1!1s0xd41867bb695e027:0x77857db2f0bff5c!2m2!1d-3.8183232!2d40.4425583!3m4!1m2!1d-3.3791924!2d40.8779457!3s0xd43bfac3a74b515:0x3a2e6cbb8d40179b!1m5!1m1!1s0xd4683be3406b3af:0x22fa93e9bdf75694!2m2!1d-3.8215403!2d41.7159874!3e0?entry=ttu",
             "confidentialInfo":""
         },
         {
@@ -168,7 +168,7 @@
             "description": "El cuarto hijo de los Álvarez Ruiz-Hidalgo. El único que puede conseguir sacar a la Señora Claudia a la pista de baile. Mantiene un gran pique deportivo con su familia política.",
             "role":"",
             "image":"../assets/users/min/nacho.png",
-            "route":"https://www.google.es/maps/dir/C.+Dos+Hermanas,+12,+24005+Le%C3%B3n/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@42.46743,-5.375953,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd379aa3b1f12f21:0xd2c3007ca299c733!2m2!1d-5.5688948!2d42.5893109!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0",
+            "route":"https://www.google.es/maps/dir/Calle+Islas+Baleares,+2,+Pozuelo+de+Alarc%C3%B3n/La+Posada+de+Pradorey,+CL-619,+Ventosilla/@41.0784773,-4.2498602,294910m/data=!3m2!1e3!4b1!4m19!4m18!1m10!1m1!1s0xd41867bb695e027:0x77857db2f0bff5c!2m2!1d-3.8183232!2d40.4425583!3m4!1m2!1d-3.3791924!2d40.8779457!3s0xd43bfac3a74b515:0x3a2e6cbb8d40179b!1m5!1m1!1s0xd4683be3406b3af:0x22fa93e9bdf75694!2m2!1d-3.8215403!2d41.7159874!3e0?entry=ttu",
             "confidentialInfo":""
         },
         {
@@ -176,7 +176,7 @@
             "description": "Guitarrista de vocación, astronauta de profesión. Co-inventor del maravilloso taladro recogetoldos. El yerno perfecto hasta que preguntas a sus hermanos. ",
             "role":"",
             "image":"../assets/users/min/alex.png",
-            "route":"https://www.google.es/maps/dir/C.+Dos+Hermanas,+12,+24005+Le%C3%B3n/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@42.46743,-5.375953,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd379aa3b1f12f21:0xd2c3007ca299c733!2m2!1d-5.5688948!2d42.5893109!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0",
+            "route":"https://www.google.es/maps/dir/Calle+Islas+Baleares,+2,+Pozuelo+de+Alarc%C3%B3n/La+Posada+de+Pradorey,+CL-619,+Ventosilla/@41.0784773,-4.2498602,294910m/data=!3m2!1e3!4b1!4m19!4m18!1m10!1m1!1s0xd41867bb695e027:0x77857db2f0bff5c!2m2!1d-3.8183232!2d40.4425583!3m4!1m2!1d-3.3791924!2d40.8779457!3s0xd43bfac3a74b515:0x3a2e6cbb8d40179b!1m5!1m1!1s0xd4683be3406b3af:0x22fa93e9bdf75694!2m2!1d-3.8215403!2d41.7159874!3e0?entry=ttu",
             "confidentialInfo":""
         },
         {
@@ -184,12 +184,12 @@
             "description": "La expansión internacional de la Oblancada. Amante de los libros y los animales. Oblancada's international enlargement. Books and animals lover.",
             "role":"",
             "image":"../assets/users/min/patri.png",
-            "route":"https://www.google.es/maps/dir/C.+Dos+Hermanas,+12,+24005+Le%C3%B3n/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@42.46743,-5.375953,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd379aa3b1f12f21:0xd2c3007ca299c733!2m2!1d-5.5688948!2d42.5893109!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0",
+            "route":"https://www.google.es/maps/dir/Calle+Islas+Baleares,+2,+Pozuelo+de+Alarc%C3%B3n/La+Posada+de+Pradorey,+CL-619,+Ventosilla/@41.0784773,-4.2498602,294910m/data=!3m2!1e3!4b1!4m19!4m18!1m10!1m1!1s0xd41867bb695e027:0x77857db2f0bff5c!2m2!1d-3.8183232!2d40.4425583!3m4!1m2!1d-3.3791924!2d40.8779457!3s0xd43bfac3a74b515:0x3a2e6cbb8d40179b!1m5!1m1!1s0xd4683be3406b3af:0x22fa93e9bdf75694!2m2!1d-3.8215403!2d41.7159874!3e0?entry=ttu",
             "confidentialInfo":""
         },
         {
             "name":"Marco",
-            "description": " Lo mismo desayuna a las 12 de la mañana que a las 18 de la tarde. Amante de la buena música (si no se viene arriba), con un oido privilegiado. Las prisas no van con el.",
+            "description": " Lo mismo desayuna a las 12 de la mañana que a las 18 de la tarde. Amante de la buena música (si no se viene arriba), con un oido privilegiado. Las prisas no van con él.",
             "role":"",
             "image":"../assets/users/min/marco.png",
             "route":"https://www.google.es/maps/dir/C.+Dos+Hermanas,+12,+24005+Le%C3%B3n/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@42.46743,-5.375953,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd379aa3b1f12f21:0xd2c3007ca299c733!2m2!1d-5.5688948!2d42.5893109!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0",
@@ -197,7 +197,7 @@
         },
         {
             "name":"Lia",
-            "description": "La modernizadora de la familia. Actriz en sus años jóvenes, siempre econtraba un buen atrezzo. Conductora novel, huye si la ves sin gafas al volante.",
+            "description": "La modernizadora de la familia. Actriz en sus años jóvenes, siempre encontraba un buen atrezzo. Conductora novel, huye si la ves sin gafas al volante.",
             "role":"",
             "image":"../assets/users/min/lia.png",
             "route":"https://www.google.es/maps/dir/C.+Dos+Hermanas,+12,+24005+Le%C3%B3n/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@42.46743,-5.375953,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd379aa3b1f12f21:0xd2c3007ca299c733!2m2!1d-5.5688948!2d42.5893109!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0",
@@ -205,10 +205,10 @@
         },
         {
             "name":"Guille",
-            "description": "El showman por definición, memorables sus actuaciones junto a Lia. Con los ojeadores rondando, todavía tiene opciones de vestir de rojiblanco.",
+            "description": "El showman por definición, memorables sus actuaciones junto a Lía. Con los ojeadores rondando, todavía tiene opciones de vestir de rojiblanco.",
             "role":"",
             "image":"../assets/users/min/guille.png",
-            "route":"https://www.google.es/maps/dir/C.+Dos+Hermanas,+12,+24005+Le%C3%B3n/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@42.46743,-5.375953,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd379aa3b1f12f21:0xd2c3007ca299c733!2m2!1d-5.5688948!2d42.5893109!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0",
+            "route":"https://www.google.es/maps/dir/Calle+Islas+Baleares,+2,+Pozuelo+de+Alarc%C3%B3n/La+Posada+de+Pradorey,+CL-619,+Ventosilla/@41.0784773,-4.2498602,294910m/data=!3m2!1e3!4b1!4m19!4m18!1m10!1m1!1s0xd41867bb695e027:0x77857db2f0bff5c!2m2!1d-3.8183232!2d40.4425583!3m4!1m2!1d-3.3791924!2d40.8779457!3s0xd43bfac3a74b515:0x3a2e6cbb8d40179b!1m5!1m1!1s0xd4683be3406b3af:0x22fa93e9bdf75694!2m2!1d-3.8215403!2d41.7159874!3e0?entry=ttu",
             "confidentialInfo":""
         },
         {
@@ -216,15 +216,15 @@
             "description": "Fanático del automovilismo en general. Su mayor ilusión sería conducir un autobús. ¡Cuidado, sus abrazos enganchan!",
             "role":"",
             "image":"../assets/users/min/jaime.png",
-            "route":"https://www.google.es/maps/dir/C.+Dos+Hermanas,+12,+24005+Le%C3%B3n/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@42.46743,-5.375953,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd379aa3b1f12f21:0xd2c3007ca299c733!2m2!1d-5.5688948!2d42.5893109!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0",
+            "route":"https://www.google.es/maps/dir/Urbanizaci%C3%B3n+El+Robledal,+Carbajal+de+la+Legua/La+Posada+de+Pradorey,+CL-619,+Ventosilla/@42.1774628,-5.371572,289925m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0xd379a2d09226c45:0x6e4d01fa365f8142!2m2!1d-5.6011016!2d42.6409802!1m5!1m1!1s0xd4683be3406b3af:0x22fa93e9bdf75694!2m2!1d-3.8215403!2d41.7159874!3e0?entry=ttu",
             "confidentialInfo":""
         },
         {
             "name":"Jorge",
-            "description": "Conversador inagotable, siempre hay una pregunta más. Con esa zurda de oro llegará lejos (no sabemos en que equipo).",
+            "description": "Conversador inagotable, siempre hay una pregunta más. Con esa zurda de oro llegará lejos (no sabemos en qué equipo).",
             "role":"",
             "image":"../assets/users/min/jorge.png",
-            "route":"https://www.google.es/maps/dir/C.+Dos+Hermanas,+12,+24005+Le%C3%B3n/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@42.46743,-5.375953,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd379aa3b1f12f21:0xd2c3007ca299c733!2m2!1d-5.5688948!2d42.5893109!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0",
+            "route":"https://www.google.es/maps/dir/Urbanizaci%C3%B3n+El+Robledal,+Carbajal+de+la+Legua/La+Posada+de+Pradorey,+CL-619,+Ventosilla/@42.1774628,-5.371572,289925m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0xd379a2d09226c45:0x6e4d01fa365f8142!2m2!1d-5.6011016!2d42.6409802!1m5!1m1!1s0xd4683be3406b3af:0x22fa93e9bdf75694!2m2!1d-3.8215403!2d41.7159874!3e0?entry=ttu",
             "confidentialInfo":""
         },
         {
@@ -232,7 +232,7 @@
             "description": "El más tranquilo y sonriente de los enanos. Quítale la comida y sacará su genio.",
             "role":"",
             "image":"../assets/users/min/javi.png",
-            "route":"https://www.google.es/maps/dir/C.+Dos+Hermanas,+12,+24005+Le%C3%B3n/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@42.46743,-5.375953,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd379aa3b1f12f21:0xd2c3007ca299c733!2m2!1d-5.5688948!2d42.5893109!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0",
+            "route":"https://www.google.es/maps/dir/Urbanizaci%C3%B3n+El+Robledal,+Carbajal+de+la+Legua/La+Posada+de+Pradorey,+CL-619,+Ventosilla/@42.1774628,-5.371572,289925m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0xd379a2d09226c45:0x6e4d01fa365f8142!2m2!1d-5.6011016!2d42.6409802!1m5!1m1!1s0xd4683be3406b3af:0x22fa93e9bdf75694!2m2!1d-3.8215403!2d41.7159874!3e0?entry=ttu",
             "confidentialInfo":""
         },
         {
@@ -240,7 +240,7 @@
             "description": "La reina de la cuarta generación. Siente pasión por sus primos y hermanos. Aunque es guiri, no se le nota el acento.",
             "role":"",
             "image":"../assets/users/min/carlota.png",
-            "route":"https://www.google.es/maps/dir/C.+Dos+Hermanas,+12,+24005+Le%C3%B3n/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@42.46743,-5.375953,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd379aa3b1f12f21:0xd2c3007ca299c733!2m2!1d-5.5688948!2d42.5893109!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0",
+            "route":"https://www.google.es/maps/dir/%C3%A9dificio+Fuenlelaueyna,+C.+Alejandro+Casona,+3,+28035+Madrid/La+Posada+de+Pradorey,+CL-619,+Ventosilla/@41.0978064,-4.3543271,294823m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0xd4229efb18f4e91:0x868ef42f1bc9a44!2m2!1d-3.7311722!2d40.4814002!1m5!1m1!1s0xd4683be3406b3af:0x22fa93e9bdf75694!2m2!1d-3.8215403!2d41.7159874!3e0?entry=ttu",
             "confidentialInfo":""
         },
         {
@@ -248,7 +248,7 @@
             "description": "Su cara de pillo le delata. Amante de las croquetas bien hechas. Cuando menos te lo esperas te planta un beso y un abrazo.",
             "role":"",
             "image":"../assets/users/min/martin.png",
-            "route":"https://www.google.es/maps/dir/C.+Dos+Hermanas,+12,+24005+Le%C3%B3n/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@42.46743,-5.375953,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd379aa3b1f12f21:0xd2c3007ca299c733!2m2!1d-5.5688948!2d42.5893109!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0",
+            "route":"https://www.google.es/maps/dir/%C3%A9dificio+Fuenlelaueyna,+C.+Alejandro+Casona,+3,+28035+Madrid/La+Posada+de+Pradorey,+CL-619,+Ventosilla/@41.0978064,-4.3543271,294823m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0xd4229efb18f4e91:0x868ef42f1bc9a44!2m2!1d-3.7311722!2d40.4814002!1m5!1m1!1s0xd4683be3406b3af:0x22fa93e9bdf75694!2m2!1d-3.8215403!2d41.7159874!3e0?entry=ttu",
             "confidentialInfo":""
         },
         {
@@ -256,7 +256,7 @@
             "description": "Te juzga mientras te derrite con su tierna mirada. De apariencia tranquila y observadora pero siempre quiere estar en el meollo. Mayor fan de sus hermanos.",
             "role":"",
             "image":"../assets/users/min/paula.png",
-            "route":"https://www.google.es/maps/dir/C.+Dos+Hermanas,+12,+24005+Le%C3%B3n/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@42.46743,-5.375953,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd379aa3b1f12f21:0xd2c3007ca299c733!2m2!1d-5.5688948!2d42.5893109!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0",
+            "route":"https://www.google.es/maps/dir/%C3%A9dificio+Fuenlelaueyna,+C.+Alejandro+Casona,+3,+28035+Madrid/La+Posada+de+Pradorey,+CL-619,+Ventosilla/@41.0978064,-4.3543271,294823m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0xd4229efb18f4e91:0x868ef42f1bc9a44!2m2!1d-3.7311722!2d40.4814002!1m5!1m1!1s0xd4683be3406b3af:0x22fa93e9bdf75694!2m2!1d-3.8215403!2d41.7159874!3e0?entry=ttu",
             "confidentialInfo":""
         },
         {
@@ -264,7 +264,7 @@
             "description": "El benjamin de la Oblancada (veremos cuanto le dura el reinado). Los ojos más despiertos de su generación. Intentará camelarte con su sonrisa.",
             "role":"",
             "image":"../assets/users/min/pablo.png",
-            "route":"https://www.google.es/maps/dir/C.+Dos+Hermanas,+12,+24005+Le%C3%B3n/Casa+Rural+%22Nogalia%22,+Calle+Calleja,+Villanueva+de+los+Nabos/@42.46743,-5.375953,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0xd379aa3b1f12f21:0xd2c3007ca299c733!2m2!1d-5.5688948!2d42.5893109!1m5!1m1!1s0xd47dd09e6786ee5:0x95600909d6e23c60!2m2!1d-4.6451951!2d42.3752334!3e0",
+            "route":"https://www.google.es/maps/dir/Calle+Carmen,+9,+Le%C3%B3n/La+Posada+de+Pradorey,+CL-619,+Ventosilla/@42.1560072,-5.3600893,290023m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0xd379a916a493f4f:0xbf3c65adafa65430!2m2!1d-5.5765533!2d42.5978755!1m5!1m1!1s0xd4683be3406b3af:0x22fa93e9bdf75694!2m2!1d-3.8215403!2d41.7159874!3e0?entry=ttu",
             "confidentialInfo":""
         }
     ]

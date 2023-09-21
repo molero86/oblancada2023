@@ -1,4 +1,4 @@
-<div class="container margin60up">
+<!-- <div class="container margin60up">
     <div class="row">
       <div class="col">
         <div class="card">
@@ -21,4 +21,23 @@
           </div>
         </div>
       </div>
+  </div> -->
+  <div class="mainContainerMargin">
+    <div class="grid-container-1">
+      <div class="grid-item card-header"><h5>Oblancada 2023</h5></div>
+    </div>
+    <div class="grid-container-3">
+      <div class="grid-item nav-tabs nav-item">
+        <a class="nav-link pointer" [class.active]="this.selectedDay == 29" (click)="changeDate(29)">29 Septiembre</a>
+      </div>
+      <div class="grid-item nav-tabs nav-item">
+        <a class="nav-link pointer" [class.active]="this.selectedDay == 30" (click)="changeDate(30)">30 Septiembre</a>
+      </div>
+      <div class="grid-item nav-tabs nav-item">
+        <a class="nav-link pointer" [class.active]="this.selectedDay == 1" (click)="changeDate(1)">01 Septiembre</a>
+      </div>
+    </div>
+    <div class="grid-container-1">
+      <app-newsletter-event [events]="this.todayEvents"></app-newsletter-event>
+    </div>
   </div>
