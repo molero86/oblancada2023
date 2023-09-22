@@ -366,3 +366,15 @@
     align-items: center;
     display: flex;
   }
+
+  .grid-container-footer {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr); /* Three equal columns */
+    gap: 5px; /* Adjust the gap between columns */
+  }
+  
+  .grid-item-footer {
+    padding: 10px;
+    /* background-color: #f2f2f2; */
+    text-align: center;
+  }

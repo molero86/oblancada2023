@@ -23,7 +23,7 @@
 
 <!-- Footer -->
 <div *ngIf="!loginService.isPromptPage" class="footer primaryBackground maxWidth" role="banner">
-  <div class="row width100" *ngIf="loginService.isLogged()">
+  <!-- <div class="row width100" *ngIf="loginService.isLogged()">
     <div class="col-1 pointer padding contentCenter"></div>
     <div class="col-2 pointer padding contentCenter" [class.active]="menuService.getCurrentTab() == 0" (click)="changeTab(0)">
       <div>
@@ -56,6 +56,28 @@
       </div>
     </div>
     <div class="col-1 pointer padding contentCenter"></div>
+  </div> -->
+  <div class="grid-container-footer" *ngIf="loginService.isLogged()">
+    <div class="grid-item-footer pointer" [class.active]="menuService.getCurrentTab() == 0" (click)="changeTab(0)">
+      <i class="fas fa-home"></i>
+        <p>La Casa</p>
+    </div>
+    <div class="grid-item-footer pointer" [class.active]="menuService.getCurrentTab() == 1" (click)="changeTab(1)">
+      <i class="fas fa-book-open"></i>
+        <p>Programa</p>
+    </div>
+    <div class="grid-item-footer pointer" [class.active]="menuService.getCurrentTab() == 2" (click)="changeTab(2)">
+      <i class="fas fa-users"></i>
+        <p>Equipo</p>
+    </div>
+    <div class="grid-item-footer pointer" [class.active]="menuService.getCurrentTab() == 4" (click)="changeTab(4)">
+      <i class="fas fa-sitemap"></i>
+        <p>Reparto</p>
+    </div>
+    <div class="grid-item-footer pointer" [class.active]="menuService.getCurrentTab() == 3" (click)="changeTab(3)">
+      <i class="fas fa-info-circle"></i>
+        <p>Info</p>
+    </div>
   </div>
 </div>
 
