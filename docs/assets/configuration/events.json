@@ -90,7 +90,7 @@
             "day": 30,
             "title": "Cena del sábado noche",
             "description": "Paramos a cenar para coger fuerzas para lo que viene después.",
-            "imageUrl": "foto",
+            "imageUrl": "",
             "info":[],
             "users":[]
         },
@@ -100,7 +100,7 @@
             "day": 30,
             "title": "¡Concurso sorpresa!",
             "description": "Id preparados para ser retados con las pruebas más divertidas y locas que os podáis imaginar.",
-            "imageUrl": "/oblancada2023/assets/event-images/interrogacion.png",
+            "imageUrl": "/oblancada2023/assets/event-images/concurso.png",
             "info":[],
             "users":[]
         },
@@ -136,7 +136,7 @@
             "day": 1,
             "title": "Comida",
             "description": "Todos a comer otra vez, que ya se acaba lo bueno.",
-            "imageUrl": ""
+            "imageUrl": "/oblancada2023/assets/event-images/comidaDomingo.png"
         },
         {
             "id":17,
@@ -144,7 +144,7 @@
             "day": 1,
             "title": "Amargas despedidas",
             "description": "Despues de un gran fin de semana llega la despedida. Pero solo hasta la próxima Oblancada. ¡¡Nos vemos pronto!!",
-            "imageUrl": ""
+            "imageUrl": "/oblancada2023/assets/event-images/despedida.png"
         }
     ]
 }

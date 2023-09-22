@@ -10,16 +10,26 @@
       <p><b>Comodidades:</b> El ediﬁcio mantiene intacta su estructura exterior que data del siglo XVII. Como complemento, unos jardines que invitan a la reﬂexión, lectura y descanso, así como pistas deportivas para practicar padel, tenis o baloncesto y piscina.</p>
       <p><b>Fecha:</b> Desde el viernes 29/09/2023 hasta el domingo 01/10/2023</p>
 
-      <a href="https://pradorey.es/posada/" 
-         class="btn btn-outline-primary" target="_blank">
-        <i class="fas fa-globe-europe"></i>  
-        Web
-      </a>
-      <a [href]="loginService.currentRoute" 
-         class="btn btn-outline-primary" target="_blank" style="float:right">
-        <i class="fas fa-map-signs"></i>
-        Como llegar
-      </a>
+      <div class="grid-container-homeButtons">
+        <div class="grid-item-homeButtons">
+          <a href="https://pradorey.es/posada/" class="btn btn-outline-primary" target="_blank">
+            <i class="fas fa-globe-europe"></i>  
+            Web
+          </a>
+        </div>
+        <div class="grid-item-homeButtons">
+          <a href="https://weather.com/es-ES/tiempo/hoy/l/41.76,-3.80?par=google" class="btn btn-outline-primary" target="_blank">
+            <i class="fas fa-cloud"></i>  
+            Tiempo
+          </a>
+        </div>
+        <div class="grid-item-homeButtons">
+          <a [href]="loginService.currentRoute" class="btn btn-outline-primary" target="_blank" style="float:right">
+            <i class="fas fa-map-signs"></i>
+            Como llegar
+          </a>
+        </div>
+      </div>
     </div>
     <div style="margin-top:120px"></div>
   </div>

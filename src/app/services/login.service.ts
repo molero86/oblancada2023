@@ -75,7 +75,7 @@ export class LoginService {
       this.SetWrongEnters(userName, password);
       return LoginResult.WRONG_NAME;
     }
-    if(password != this.password)
+    if(password.toLowerCase() != this.password.toLowerCase())
     {
       //Wrong password
       this.SetWrongEnters(userName, password);

@@ -14,3 +14,13 @@ img{
     max-width: 800px;
     margin: auto;
   } 
+  .grid-container-homeButtons {
+    display: grid;
+    grid-template-columns: 26% 33% 41%;
+    gap: 0px; /* Adjust the gap between columns */
+  }
+  
+  .grid-item-homeButtons {
+    padding: 8px;
+    text-align: center;
+  }

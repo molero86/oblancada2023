@@ -8,7 +8,7 @@
                 "Cuca", "Diego",
                 "Eva", "Gabi",
                 "Guille", "Isa",
-                "Isabel", "Jaime",
+                "Isich", "Jaime",
                 "Javi","Javier",
                 "Jorge","Jose",
                 "Lia","Marco",
@@ -76,7 +76,7 @@
             "confidentialInfo":""
         },
         {
-            "name":"Óscar",
+            "name":"Oscar",
             "description": "El último de la 2ªGen. pero a veces le incluyen en la 3ª. Debería ser el DJ oficial en todos los eventos. Amante de la buena música y la buena juerga.",
             "role":"El que pone la música",
             "image":"/oblancada2023/assets/users/min/oscar.png",
@@ -153,7 +153,7 @@
             "role":"",
             "image":"/oblancada2023/assets/users/min/alba.png",
             "route":"https://www.google.es/maps/dir/Avenida+de+Pablo+Iglesias,+22,+Madrid/La+Posada+de+Pradorey,+CL-619,+Ventosilla/@41.0755264,-4.5529817,294923m/data=!3m2!1e3!4b1!4m14!4m13!1m5!1m1!1s0xd42285159235423:0x27bfad3bdc33768e!2m2!1d-3.7072077!2d40.4461117!1m5!1m1!1s0xd4683be3406b3af:0x22fa93e9bdf75694!2m2!1d-3.8215403!2d41.7159874!3e0?entry=ttu",
-            "confidentialInfo":""
+            "confidentialInfo":"Tendrás que llevar un sombrero y una pajarita para la cena del sábado. Por favor esto es sumamente confidencial, procura que nadie se entere de que lo llevas."
         },
         {
             "name":"Clau",
@@ -161,7 +161,7 @@
             "role":"La señora Claudia",
             "image":"/oblancada2023/assets/users/min/clau.png",
             "route":"https://www.google.es/maps/dir/Calle+Islas+Baleares,+2,+Pozuelo+de+Alarc%C3%B3n/La+Posada+de+Pradorey,+CL-619,+Ventosilla/@41.0784773,-4.2498602,294910m/data=!3m2!1e3!4b1!4m19!4m18!1m10!1m1!1s0xd41867bb695e027:0x77857db2f0bff5c!2m2!1d-3.8183232!2d40.4425583!3m4!1m2!1d-3.3791924!2d40.8779457!3s0xd43bfac3a74b515:0x3a2e6cbb8d40179b!1m5!1m1!1s0xd4683be3406b3af:0x22fa93e9bdf75694!2m2!1d-3.8215403!2d41.7159874!3e0?entry=ttu",
-            "confidentialInfo":""
+            "confidentialInfo":"Tendrás que llevar un sombrero y una pajarita para la cena del sábado. Por favor esto es sumamente confidencial, procura que nadie se entere de que lo llevas."
         },
         {
             "name":"Nacho",
@@ -185,7 +185,7 @@
             "role":"",
             "image":"/oblancada2023/assets/users/min/patri.png",
             "route":"https://www.google.es/maps/dir/Calle+Islas+Baleares,+2,+Pozuelo+de+Alarc%C3%B3n/La+Posada+de+Pradorey,+CL-619,+Ventosilla/@41.0784773,-4.2498602,294910m/data=!3m2!1e3!4b1!4m19!4m18!1m10!1m1!1s0xd41867bb695e027:0x77857db2f0bff5c!2m2!1d-3.8183232!2d40.4425583!3m4!1m2!1d-3.3791924!2d40.8779457!3s0xd43bfac3a74b515:0x3a2e6cbb8d40179b!1m5!1m1!1s0xd4683be3406b3af:0x22fa93e9bdf75694!2m2!1d-3.8215403!2d41.7159874!3e0?entry=ttu",
-            "confidentialInfo":""
+            "confidentialInfo":"You will need to wear a hat and bow tie to Saturday's dinner. Please keep this extremely confidential, so make sure no one knows it."
         },
         {
             "name":"Marco",

@@ -7,14 +7,14 @@ i{
 
 p{
     width: 80%;
-    margin-left: 10%;
-    margin-right: 10%;
     color: white;
+    margin: auto;
+    text-align: center;
 }
 
 .divImage{
-    display:grid;
-    align-content: center;
+  width: 38%;
+  margin: auto;
 }
 button{
     position: fixed;
